@@ -2,7 +2,9 @@
   "name": "@au5ton/peerflix-server",
   "version": "0.5.2",
   "author": "Aliaksei Sapach <dreamsonic@tut.by>",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "description": "Streaming torrent client for node.js with web ui.",
   "bin": {
     "peerflix-server": "./server/bin.js"
