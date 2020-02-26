@@ -25,6 +25,5 @@ build/Release
 node_modules
 
 /app/bower_components
-/dist
 /.tmp
 /.idea

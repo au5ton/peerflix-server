@@ -11,8 +11,7 @@
   },
   "scripts": {
     "start": "node ./server/bin.js",
-    "test": "grunt test",
-    "prepack": "grunt build"
+    "test": "grunt test"
   },
   "main": "./server/bin.js",
   "repository": {
